@@ -1,0 +1,18 @@
+* {
+
+}
+
+.container{
+    color: white;
+    font-size: 20px;
+    width:800px ;
+    min-height:600px ;
+    background:#7a5bec ;
+    border-radius:30px ;
+    justify-content:center ;
+    border:5px double rgb(17, 66, 7) ;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius:20px ;
+    padding: 15px;
+  }
